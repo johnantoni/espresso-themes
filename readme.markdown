@@ -9,7 +9,7 @@ Install using Git
 Open Terminal.app
 
     cd ~/Library/Application\ Support/Espresso/Sugars/
-    git clone git://github.com/minimalweb/HTML5.sugar.git
+    git clone git://github.com/johnantoni/espresso-themes.git
 
 
 For your info
