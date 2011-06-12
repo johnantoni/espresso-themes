@@ -8,7 +8,7 @@ Install using Git
 
 Open Terminal.app
 
-    cd ~/Library/Application\ Support/Espresso/Sugars/
+    cd ~/Library/Application\ Support/Espresso/Themes/
     git clone git://github.com/johnantoni/espresso-themes.git
 
 
